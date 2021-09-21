@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">PrimeiroApp</string>
+    <string name="app_name">Meu App</string>
+    <string name="insira_o_usuario">Insira o usuário</string>
+    <string name="insira_sua_senha">Insira sua senha</string>
+    <string name="entrar">Entrar</string>
+    <string name="sair">Sair</string>
 </resources>
