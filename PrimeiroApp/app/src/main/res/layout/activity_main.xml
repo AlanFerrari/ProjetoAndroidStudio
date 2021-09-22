@@ -5,6 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
+    android:background="#D000BCD4"
     tools:context=".MainActivity">
 
     <LinearLayout
@@ -40,19 +41,18 @@
             android:textSize="30sp" />
 
         <Button
+            android:background="@drawable/botao_redondo"
             android:id="@+id/btnEntrar"
-            style="@style/Widget.AppCompat.Button.Borderless"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="10dp"
-            android:background="@drawable/botao_redondo"
             android:text="@string/entrar"
             android:textAllCaps="false"
             android:textSize="20sp" />
 
         <Button
+            android:onClick="sairSistema"
             android:id="@+id/btnSair"
-            style="@style/Widget.AppCompat.Button.Borderless"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="10dp"
