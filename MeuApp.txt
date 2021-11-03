@@ -1,0 +1,15 @@
+Cardview menu-layout
+
+appbar -> barra padrão do android studio
+
+toolbar -> barra mais otimizada, tem
+mais funções para serem configuradas.
+
+- Itens para adicionar no menu do petsApp
+
+- Cuidados
+- Adote
+- Localização
+- Alimentação
+- Banho / Tosa
+- Sobre

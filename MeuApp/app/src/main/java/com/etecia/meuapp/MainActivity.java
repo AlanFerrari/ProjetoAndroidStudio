@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
         //abrindo a minha activity
         setContentView(R.layout.activity_main);
 
-        //declarei as variáveis do java para apresentar para as variáveis xml
+        //declarei como variáveis do java para apresentar para as variáveis xml
         edtUsuario = findViewById(R.id.edtUsuario);
         edtSenha = findViewById(R.id.edtSenha);
 
